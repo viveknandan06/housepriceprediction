@@ -1,0 +1,9 @@
+Setup python
+
+open command promt in administrator mode
+
+cd "folder address"
+python -m pip install --upgrade pip
+python -c "import jupyter, matplotlib, numpy, pandas, scipy, sklearn"
+--upgrade jupyter matplotlib numpy pandas scipy scikit-learn
+jupyter notebook
